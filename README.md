@@ -1,4 +1,4 @@
-# shopizer-shipping-distance-module
+# shopizer-shipping-distance-module 2.2.0
 Calculates shipping fees based on the distance between the store warehouse and the delivery address
 
 Requires a google API key
