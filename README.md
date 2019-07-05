@@ -1,4 +1,4 @@
-# shopizer-shipping-distance-module 2.3.0
+# shopizer-shipping-distance-module 2.6.0
 
 Calculates shipping fees based on the distance between the store warehouse and the delivery address
 
